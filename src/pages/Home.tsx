@@ -10,9 +10,9 @@ const featuredProducts = products.filter((p) => p.featured);
 const seasonalSpecials = [
   {
     id: 's1',
-    title: 'Mother\'s Day Cake',
+    title: 'Birthday Cakes',
     description: 'A pastel floral fondant creation to celebrate the most special woman in your life.',
-    image: 'https://images.pexels.com/photos/1721932/pexels-photo-1721932.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/Bdaycake.jpg',
     badge: 'Limited Edition',
     price: '₹2,499',
   },
