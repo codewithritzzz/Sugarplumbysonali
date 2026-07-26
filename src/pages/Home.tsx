@@ -12,7 +12,7 @@ const seasonalSpecials = [
     id: 's1',
     title: 'Mother\'s Day Cake',
     description: 'A pastel floral fondant creation to celebrate the most special woman in your life.',
-    image: 'https://ibb.co/TBVv2zSg',
+    image: 'https://images.pexels.com/photos/1721932/pexels-photo-1721932.jpeg?auto=compress&cs=tinysrgb&w=600',
     badge: 'Limited Edition',
     price: '₹2,499',
   },
