@@ -33,7 +33,7 @@ export function ScrollToTop() {
 export function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/919999999999?text=Hi%2C%20I%20want%20to%20customize%20a%20cake"
+      href="https://wa.me/+260778624871?text=Hi%2C%20I%20want%20to%20customize%20a%20cake!"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat on WhatsApp"
