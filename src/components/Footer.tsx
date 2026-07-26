@@ -38,7 +38,7 @@ export default function Footer() {
             </p>
             <div className="flex gap-3 mt-2">
               <a
-                href="https://www.instagram.com"
+                href="https://www.instagram.com/sugarplum_by_sonali"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Instagram"
@@ -47,7 +47,7 @@ export default function Footer() {
                 <Instagram size={18} />
               </a>
               <a
-                href="https://www.youtube.com"
+                href="https://www.youtube.com/@sugarplumbysonali"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="YouTube"
@@ -56,7 +56,7 @@ export default function Footer() {
                 <Youtube size={18} />
               </a>
               <a
-                href="https://www.x.com"
+                href="https://www.x.com/sugarplumbysonali"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="X (Twitter)"
@@ -90,11 +90,11 @@ export default function Footer() {
             <ul className="flex flex-col gap-3 text-sm text-cream-400">
               <li>
                 <span className="text-gold-500 font-semibold block text-xs uppercase tracking-widest mb-1">Phone</span>
-                +91 99999 99999
+                +260 778624871 
               </li>
               <li>
                 <span className="text-gold-500 font-semibold block text-xs uppercase tracking-widest mb-1">Email</span>
-                hello@sugarplumbySonali.com
+                sugarplumbysonali@gmail.com
               </li>
               <li>
                 <span className="text-gold-500 font-semibold block text-xs uppercase tracking-widest mb-1">Hours</span>
