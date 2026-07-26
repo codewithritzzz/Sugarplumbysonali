@@ -105,14 +105,14 @@ export default function About() {
           <FadeIn delay={0.15}>
             <div className="bg-dark-800 rounded-2xl p-8 md:p-10 flex flex-col md:flex-row items-center gap-8 text-left border border-dark-600">
               <img
-                src="https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?auto=compress&cs=tinysrgb&w=400"
+                src="/Sonali-photo.jpg"
                 alt="Sonali, Founder"
                 className="w-36 h-36 rounded-full object-cover border-4 border-gold-500 flex-shrink-0"
               />
               <div>
-                <h3 className="font-playfair text-2xl font-bold text-gold-400 mb-1">Sonali</h3>
+                <h3 className="font-playfair text-2xl font-bold text-gold-400 mb-1">Sonali Roy</h3>
                 <p className="text-cream-400 text-sm mb-4 font-semibold tracking-wide">
-                  Pastry Chef & Founder — Sugar Plum
+                  Pastry Chef & Founder — SugarPlum
                 </p>
                 <p className="text-cream-300 leading-relaxed text-sm">
                   Trained in classical French patisserie, Sonali has spent the last decade perfecting
