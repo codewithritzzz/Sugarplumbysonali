@@ -12,7 +12,7 @@ const seasonalSpecials = [
     id: 's1',
     title: 'Mother\'s Day Cake',
     description: 'A pastel floral fondant creation to celebrate the most special woman in your life.',
-    image: 'https://images.pexels.com/photos/1721932/pexels-photo-1721932.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: 'https://ibb.co/TBVv2zSg',
     badge: 'Limited Edition',
     price: '₹2,499',
   },
@@ -77,7 +77,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
           >
             <p className="text-gold-400 font-playfair italic text-lg mb-4 tracking-wide">
-              Welcome to Sugar Plum
+              Welcome to SugarPlum
             </p>
             <h1 className="font-playfair text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white leading-tight mb-6">
               Crafted with Love.
