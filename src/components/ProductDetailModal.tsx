@@ -131,7 +131,7 @@ export default function ProductDetailModal({ product, onClose }: ProductDetailMo
               </label>
               <input
                 type="text"
-                placeholder="e.g. Happy Birthday Riya!"
+                placeholder="e.g. Happy Birthday {name}!"
                 value={message}
                 onChange={(e) => setMessage(e.target.value)}
                 maxLength={50}
