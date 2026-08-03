@@ -60,7 +60,7 @@ export default function About() {
           <FadeIn>
             <div className="relative">
               <img
-                src="https://images.pexels.com/photos/3065209/pexels-photo-3065209.jpeg?auto=compress&cs=tinysrgb&w=700"
+                src="/sugarplumlogo.jpeg?auto=compress&cs=tinysrgb&w=700"
                 alt="Sugar Plum bakery"
                 className="rounded-2xl shadow-2xl w-full object-cover"
               />
