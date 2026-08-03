@@ -3,11 +3,11 @@ import type { Product, GalleryImage } from '../types';
 export const products: Product[] = [
   {
     id: 'birthday-1',
-    name: 'Classic Vanilla Birthday Cake',
-    description: 'Light, moist vanilla sponge with silky buttercream frosting, adorned with hand-piped rosettes and sprinkles.',
+    name: 'Classic Chocolate Birthday Cake',
+    description: 'Light, moist chocolate sponge with silky buttercream frosting, adorned with hand-piped rosettes and sprinkles.',
     price: 1299,
     category: 'birthday',
-    image: 'https://images.pexels.com/photos/1028714/pexels-photo-1028714.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/Choclatecake.jpg',
     flavors: ['Vanilla', 'Chocolate', 'Strawberry', 'Red Velvet'],
     sizes: [
       { label: '0.5 kg', multiplier: 0.5 },
@@ -25,7 +25,7 @@ export const products: Product[] = [
     description: 'Rich dark chocolate layers with velvety ganache and chocolate shavings — a chocoholic\'s fantasy.',
     price: 1499,
     category: 'birthday',
-    image: 'https://images.pexels.com/photos/291528/pexels-photo-291528.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/Chococreme.jpg',
     flavors: ['Dark Chocolate', 'Milk Chocolate', 'White Chocolate'],
     sizes: [
       { label: '0.5 kg', multiplier: 0.5 },
@@ -39,11 +39,11 @@ export const products: Product[] = [
   },
   {
     id: 'wedding-1',
-    name: 'Elegant White Wedding Tier',
+    name: 'Customizable Birthday Cakes',
     description: 'Three-tiered fondant masterpiece with delicate sugar flowers, gold leaf accents, and a flawlessly smooth finish.',
-    price: 8999,
+    price: 2999,
     category: 'wedding',
-    image: 'https://images.pexels.com/photos/1488315/pexels-photo-1488315.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/Bdaycake.jpg',
     flavors: ['Vanilla', 'Lemon', 'Rose & Almond'],
     sizes: [
       { label: '3 kg (serves 30)', multiplier: 3 },
@@ -76,7 +76,7 @@ export const products: Product[] = [
     description: 'Moist red velvet cupcakes crowned with towering cream cheese frosting swirls.',
     price: 799,
     category: 'cupcakes',
-    image: 'https://images.pexels.com/photos/1055272/pexels-photo-1055272.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/cupcake1.jpg',
     flavors: ['Red Velvet', 'Vanilla', 'Chocolate', 'Lemon'],
     sizes: [
       { label: 'Box of 6', multiplier: 1 },
@@ -89,11 +89,11 @@ export const products: Product[] = [
   },
   {
     id: 'macaron-1',
-    name: 'Parisian Macaron Collection',
-    description: 'Delicate French macarons with crisp shells, chewy centres, and exquisite ganache fillings.',
+    name: 'Checkered Cookies',
+    description: 'Handcrafted checkerboard cookies with a touch of classic charm.',
     price: 899,
     category: 'macarons',
-    image: 'https://images.pexels.com/photos/239578/pexels-photo-239578.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/cookies.jpg',
     flavors: ['Raspberry', 'Pistachio', 'Salted Caramel', 'Lavender', 'Vanilla', 'Chocolate'],
     sizes: [
       { label: 'Box of 6', multiplier: 1 },
@@ -138,11 +138,11 @@ export const products: Product[] = [
   },
   {
     id: 'pastry-2',
-    name: 'Opera Cake',
-    description: 'Classic French opera cake — layers of almond sponge, coffee syrup, mocha buttercream and ganache.',
+    name: 'Anniversary Cake',
+    description: 'Soft sponge, creamy layers, handcrafted frosting, and timeless anniversary elegance.',
     price: 1799,
     category: 'pastries',
-    image: 'https://images.pexels.com/photos/2373520/pexels-photo-2373520.jpeg?auto=compress&cs=tinysrgb&w=600',
+    image: '/weddingcakes.jpg',
     flavors: ['Classic Coffee', 'Hazelnut', 'Dark Chocolate'],
     sizes: [
       { label: 'Slice', multiplier: 0.25 },
@@ -174,7 +174,7 @@ export const galleryImages: GalleryImage[] = [
 export const testimonials = [
   {
     id: 1,
-    name: 'Priya Mehta',
+    name: 'Ruapli Singh',
     role: 'Birthday Cake Customer',
     text: 'The chocolate fudge cake was absolutely divine! Every layer was moist, the ganache was velvety smooth, and the presentation left our guests speechless. Sonali truly puts her heart into every creation.',
     rating: 5,
