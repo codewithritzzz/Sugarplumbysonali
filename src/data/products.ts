@@ -174,7 +174,7 @@ export const galleryImages: GalleryImage[] = [
 export const testimonials = [
   {
     id: 1,
-    name: 'Ruapli Singh',
+    name: 'Rupali Singh',
     role: 'Birthday Cake Customer',
     text: 'The chocolate fudge cake was absolutely divine! Every layer was moist, the ganache was velvety smooth, and the presentation left our guests speechless. Sonali truly puts her heart into every creation.',
     rating: 5,
