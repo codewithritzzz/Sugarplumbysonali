@@ -177,17 +177,17 @@ export default function Contact() {
                 {
                   icon: MapPin,
                   label: 'Address',
-                  value: '12 Baker Street, Koramangala, Bengaluru, Karnataka 560034',
+                  value: '92nd Avenuw, Manhattan, New york, NY',
                 },
                 {
                   icon: Phone,
                   label: 'Phone',
-                  value: '+91 99999 99999',
+                  value: '+260778624871',
                 },
                 {
                   icon: Mail,
                   label: 'Email',
-                  value: 'hello@sugarplumbysonali.com',
+                  value: 'sugarplumbysonali@gmail.com',
                 },
                 {
                   icon: Clock,
@@ -234,7 +234,7 @@ export default function Contact() {
                     <Youtube size={18} />
                   </a>
                   <a
-                    href="https://www.x.com"
+                    href="https://www.x.com/sugarplumbysonali"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="X (Twitter)"
